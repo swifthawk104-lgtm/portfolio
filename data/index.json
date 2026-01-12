@@ -1,8 +1,8 @@
 {
   "message": "ポートフォリオ用ページへようこそ",
   "page": [
-    { "name": "自己紹介ページへ", "link": "profile.html", "color": "#007acc", "hoverColor": "#005fa3"},
-    { "name": "業務ツールページへ", "link": "businessTools.html", "color": "#2e8b57", "hoverColor": "#246b45"},
-    { "name": "作成中", "link": "miniGame.html", "color": "#d2691e", "hoverColor": "#a85418"}
+    { "name": "自己紹介ページへ", "link": "./pages/profile.html", "color": "#007acc", "hoverColor": "#005fa3"},
+    { "name": "業務ツールページへ", "link": "./pages/businessTools.html", "color": "#2e8b57", "hoverColor": "#246b45"},
+    { "name": "作成中", "link": "./pages/miniGame.html", "color": "#d2691e", "hoverColor": "#a85418"}
   ]
 }
