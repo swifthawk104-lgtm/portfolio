@@ -1,0 +1,11 @@
+{
+  "form": [
+    { "label": "企業名", "type": "text", "options": [], "name": null, "required": true },
+    { "label": "お相手企業名", "type": "text", "options": [], "name": null, "required": true },
+    { "label": "形式", "type": "checkbox", "options": ["オンライン", "訪問", "ご来社"], "name": null, "required": true },
+    { "label": "商談場所", "type": "select", "options": ["東京", "大阪", "名古屋"], "name": "prefecture", "required": false },
+    { "label": "商材", "type": "radio", "options": ["aaa", "bbb", "ccc"], "name": "product", "required": true },
+    { "label": "メニュー", "type": "checkbox", "options": ["a", "b", "c"], "name": null, "required": false },
+    { "label": "備考欄", "type": "textarea", "options": [], "name": null, "required": false }
+  ]
+}
